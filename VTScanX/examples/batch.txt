@@ -1,0 +1,7 @@
+# Example batch file — one item per line
+# Supports: file paths, URLs, IPs, domains, and SHA256/MD5/SHA1 hashes
+# Lines starting with # are ignored
+
+https://example.com
+8.8.8.8
+google.com

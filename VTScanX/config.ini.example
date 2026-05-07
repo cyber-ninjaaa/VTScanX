@@ -1,0 +1,6 @@
+[virustotal]
+API_KEY = YOUR_VIRUSTOTAL_API_KEY_HERE
+
+[settings]
+OUTPUT_DIR = output
+LOG_DIR = logs
